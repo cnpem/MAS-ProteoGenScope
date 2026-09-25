@@ -1,6 +1,14 @@
 # ProteoGenScope
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/branding/proteogenscope-logo-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/branding/proteogenscope-logo-light.png">
+    <img src="assets/branding/proteogenscope-logo-light.png" alt="ProteoGenScope logo" width="720">
+  </picture>
+</p>
+
+<p align="center">
   <strong>Sample-specific proteogenomic search-space construction from RNA-seq evidence.</strong>
 </p>
 
