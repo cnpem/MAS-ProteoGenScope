@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.out
+*.err
+*.bam
+*.bai
+*.fastq
+*.fastq.gz
+*.fa
+*.faa
+*.fasta
+*.parquet
+results/
+output/
+work/
+.DS_Store
