@@ -50,7 +50,7 @@ flowchart LR
     I --> M[Provenance / orientation / membership]
 ```
 
-## v2 proteoform candidate policy
+## Proteoform candidate policy
 
 RNA-supported transcripts are translated with EMBOSS `getorf` using:
 
